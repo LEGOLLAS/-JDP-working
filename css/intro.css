@@ -1,0 +1,23 @@
+html{
+  width: 100%;
+  height: 100%;
+}
+body{
+  width: auto;
+  height: auto;
+  background-image: url('../images/Intro_Back.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#form{
+  width: 100%;
+  height: 100%;
+  background-color: #fff000;
+}
+#Title{
+    background-image: url('../images/Title.png');
+  background-position: center;
+  width : 1000px;
+  height: 300px;
+  margin: 0 auto;
+}
