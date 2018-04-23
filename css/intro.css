@@ -23,7 +23,6 @@ a{
 #form{
   width: 100%;
   height: 100%;
-  background-color: #fff000;
 }
 #Title{
   width : 1000px;
@@ -45,7 +44,13 @@ a{
   width : 1000px;
   height: 300px;
   margin: 0 auto;
-  background-color: #0000ff;
+}
+#Choice td{
+  width :200px;
+  text-align: center;
+}
+#Choice td img{
+  width: 190px;
 }
 .bottom1 a{
   font-size: 12px;
@@ -58,9 +63,6 @@ a{
 .bottom3 a{
   font-size: 12px;
   color: #ffffff;
-}
-.bottom4 {
-
 }
 .bottom4 a{
   font-size: 12px;
