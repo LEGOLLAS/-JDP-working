@@ -29,13 +29,17 @@ a{
   width : 1000px;
   height: 300px;
   margin: 0 auto;
-  background-color: #ff0000;
+}
+#Title td{
+  text-align: center;
 }
 #Jejudo{
   width : 1000px;
   height: 350px;
   margin: 0 auto;
-  background-color: #00ff00;
+}
+#Jejudo td{
+  text-align: center;
 }
 #Choice{
   width : 1000px;
@@ -56,7 +60,7 @@ a{
   color: #ffffff;
 }
 .bottom4 {
-  position: absolute;
+
 }
 .bottom4 a{
   font-size: 12px;
