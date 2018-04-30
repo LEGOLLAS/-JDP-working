@@ -27,6 +27,9 @@ body{
   font-size: 15px;
   text-decoration: none;
 }
+.Submenu_bt a:hover{
+  color: #0040FF;
+}
 #header{
   border-bottom: 1px solid rgb(215,215,215);
   background-color: rgb(242,242,242);
@@ -80,6 +83,9 @@ body{
 #bt a{
   font-size: 16px;
   text-decoration: none;
+}
+#bt a:hover{
+  color: #0040ff;
 }
 #Submenu{
   position: absolute;
